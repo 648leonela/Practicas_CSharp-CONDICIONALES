@@ -1,0 +1,15 @@
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/bin/Debug/net10.0/ejercicios
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/bin/Debug/net10.0/ejercicios.deps.json
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/bin/Debug/net10.0/ejercicios.runtimeconfig.json
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/bin/Debug/net10.0/ejercicios.dll
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/bin/Debug/net10.0/ejercicios.pdb
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.AssemblyInfoInputs.cache
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.AssemblyInfo.cs
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.csproj.CoreCompileInputs.cache
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.sourcelink.json
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.dll
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/refint/ejercicios.dll
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.pdb
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ejercicios.genruntimeconfig.cache
+/home/cohorte-5/Escritorio/Leonela/consicionales/ejercicios/obj/Debug/net10.0/ref/ejercicios.dll
